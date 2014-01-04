@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.5"/>
+	<classpathentry kind="lib" path="/Applications/Processing 0135/libraries/opengl/library/jogl.jar"/>
+	<classpathentry kind="lib" path="/Applications/Processing 0135/libraries/opengl/library/opengl.jar"/>
+	<classpathentry kind="lib" path="/Applications/Processing 0135/lib/core.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/JSci/classes/jsci-core.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/NetUtil/build/NetUtil.jar"/>
+	<classpathentry kind="lib" path="/Library/Java/Extensions/averages/lib/Averages.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
